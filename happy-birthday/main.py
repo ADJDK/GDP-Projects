@@ -1,0 +1,11 @@
+import time
+name = input("What is your name?")
+print("Here is a happy birthday song for you,")
+time.sleep(1)
+print("happy birthday to you,")
+time.sleep(1)
+print("happy birthday to you,")
+time.sleep(1)
+print("happy birthday to you dear,",name)
+time.sleep(1)
+print("happy birthday to you!")
