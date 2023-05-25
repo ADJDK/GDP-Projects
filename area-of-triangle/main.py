@@ -1,0 +1,7 @@
+print('Hi,welcome to the finding area of the triangle program')
+print('enter the length of the triangle:')
+a=int(input())
+print('enter the breath of the triangle:')
+b=int(input())
+c=float((a*b)/2)
+print('the area of the triangle is {}'.format(c))
