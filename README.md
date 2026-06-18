@@ -1,7 +1,5 @@
 Hi!!!
 
-Welcome to my personal code archive! This repository serves as a verified chronological record of my early programming journey, capturing over 100+ foundational programs, concepts, and algorithmic exercises originally developed on the OnlineGDB platform.
-
 # OnlineGDB Programming Archive (May – July 2023)
 
 Welcome to my personal code archive! This repository is a verified chronological record tracking my early programming journey, capturing 100+ foundational programs, concepts, and algorithmic exercises originally built on OnlineGDB.
